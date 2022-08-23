@@ -28,7 +28,7 @@ When a repository is created with GitHub, it’s stored remotely in the cloud (i
 To learn more about cloning, read ["Cloning a Repository"](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository). 
 
 ### Committing and pushing
-**Committing** and **pushing** are how you can add the changes you made on your local machine to the remote repository in GitHub. That way your instructor and/or teammates can see your latest work when you’re ready to share it. You can make a commit when you have made changes to your project that you want to “checkpoint.” You should also **ALWAYS** add a helpful **commit message** to remind yourself or your teammates what work you did (e.g., “Added a README with information about our project”).
+**Committing** and **pushing** are how you can add the changes you made on your local machine to the remote repository in GitHub. That way your instructor and/or teammates can see your latest work when you’re ready to share it. You can make a commit when you have made changes to your project that you want to “checkpoint.” You should also **ALWAYS** add a helpful **commit message** to remind yourself or your teammates what work you did (e.g., “Added a README with information about our project”). 
 
 Once you have a commit or multiple commits that you’re ready to add to your repository, you can use the push command to add those changes to your remote repository. Committing and pushing may feel new at first, but we promise you’ll get used to it 🙂
 
@@ -92,7 +92,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 ## 📝 Required next step
 
-* Create a new markdown file, named README.md, in this repository (the name matters!). Let your instructors know what you learned and what you are still confused about! Experiment with different styles!
+* Create a new markdown file, named README.md, in this repository (the name matters!). Let your instructors know what you learned and what you are still confused about! Experiment with different styles! "-The assignment was updated by Mrs/Ms Dugas to just altering a sentence in this read me. No need to make a new one."
 
 ## 📝 Optional next steps 
 
